@@ -1,0 +1,20 @@
+#log {
+    color: hsl(240, 100%, 70%);
+    font-size: 50px;
+    font-family: Helvetica;
+    text-shadow: 4px 4px 2px black;
+}
+
+#user {
+    color: black;
+}
+
+#pass {
+    color: black;
+}
+
+.button {
+    padding: 5px 25px;
+    background-color: hsl(240, 100%, 70%);
+    color: white;
+}
